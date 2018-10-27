@@ -1,5 +1,3 @@
-    // Java code to illustrate size()
-    //
     import java.util.*;
     public class DoctorSchedule {
 
